@@ -70,4 +70,4 @@ Ich habe in Bild von Schritt 1 gezeigt was die Eingabe ist und in Bild von Schri
 
 **VBV**: Diesen Fehler werde ich mir merken und beim nächsten mal mich achten, dass ich meine Klassen besser benenne.
 
-PS. bei weiterem Interesse habe ich die Klassen von Schritt 1 und 4 sowie den Kontroller noch beigelegt
+PS. bei weiterem Interesse habe ich noch das Projekt beigelegt.
